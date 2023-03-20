@@ -1,0 +1,23 @@
+# 20 students data given to Inference Engine as a Knowledge_base Data:
+student_data = {
+    "Alice": {"age": 19, "gender": "female", "major": "Computer Science", "GPA": 3.8},
+    "Bob": {"age": 20, "gender": "male", "major": "Engineering", "GPA": 3.2},
+    "Charlie": {"age": 21, "gender": "male", "major": "Biology", "GPA": 3.9},
+    "David": {"age": 18, "gender": "male", "major": "Psychology", "GPA": 3.5},
+    "Emily": {"age": 20, "gender": "female", "major": "English", "GPA": 3.7},
+    "Frank": {"age": 22, "gender": "male", "major": "History", "GPA": 3.1},
+    "Grace": {"age": 19, "gender": "female", "major": "Computer Science", "GPA": 3.9},
+    "Henry": {"age": 21, "gender": "male", "major": "Physics", "GPA": 3.6},
+    "Isabel": {"age": 20, "gender": "female", "major": "Mathematics", "GPA": 4.0},
+    "Jack": {"age": 19, "gender": "male", "major": "Computer Science", "GPA": 3.3},
+    "Kate": {"age": 18, "gender": "female", "major": "Psychology", "GPA": 3.8},
+    "Liam": {"age": 20, "gender": "male", "major": "Chemistry", "GPA": 3.4},
+    "Mia": {"age": 21, "gender": "female", "major": "Physics", "GPA": 3.9},
+    "Nate": {"age": 19, "gender": "male", "major": "Computer Science", "GPA": 3.7},
+    "Olivia": {"age": 20, "gender": "female", "major": "Biology", "GPA": 3.5},
+    "Peter": {"age": 21, "gender": "male", "major": "Mathematics", "GPA": 3.8},
+    "Quinn": {"age": 18, "gender": "female", "major": "Chemistry", "GPA": 3.6},
+    "Ryan": {"age": 20, "gender": "male", "major": "Computer Science", "GPA": 3.9},
+    "Samantha": {"age": 21, "gender": "female", "major": "Engineering", "GPA": 3.2},
+    "Tyler": {"age": 19, "gender": "male", "major": "Computer Science", "GPA": 3.5},
+}
